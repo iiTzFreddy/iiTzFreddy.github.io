@@ -13,7 +13,7 @@
             </a>
         </h3>
         <div class="publication-venue">NeurIPS 2025 spotlight</div>
-        <div class="publication-authors">J Rosser, Jakob Foerster</div>
+        <div class="publication-authors">Freddy Rives</div>
         <div class="publication-year">2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Multi-Agent Safety</span>
